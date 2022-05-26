@@ -1,0 +1,20 @@
+ion-content {
+    --background: none;
+    background-image: url('../../assets/images/back3.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:auto;
+  }
+
+  .profile_pic{
+    height: 150px !important;
+  width: 150px !important;
+  margin-top: 12%;
+  background: none !important;
+  background-color :none !important;
+  }
+
+  .center{
+    text-align: center;
+    padding-left: 55px;
+  }
